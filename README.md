@@ -1,6 +1,6 @@
 ## Using Genetic Algorithm to optimize Recurrent Neural Network's configuration
 
-<p><a href="">Python notebook</a> for the blog post <a href="http://aqibsaeed.github.io/2017-08-11-genetic-algorithm-for-optimizing-rnn/">Optimizing Recurrent Neural Network using Genetic Algorithm</a>.</p>
+<p><a href="https://github.com/aqibsaeed/Genetic-Algorithm-RNN/blob/master/Genetic-Algorithm-RNN.ipynb">Python notebook</a> for the blog post <a href="http://aqibsaeed.github.io/2017-08-11-genetic-algorithm-for-optimizing-rnn/">Optimizing Recurrent Neural Network using Genetic Algorithm</a>.</p>
 
 ### Tools Required
 
